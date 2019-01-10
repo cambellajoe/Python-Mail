@@ -1,2 +1,2 @@
-# HTML5-Game---Udacity
-HTML5 Udacity Game
+# Python - Sending mails
+Sending mails
