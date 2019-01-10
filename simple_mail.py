@@ -3,10 +3,10 @@
 import smtplib
 
 sender = 'sender_mail'
-receivers = ['receiver_mails']
+receivers = ['list of receiver_mails']
 
-message = """From: From Name <send mail>
-To: To Beth <receiver_mail>
+message = """From: Sender Name <send mail>
+To: To Receiver Name <receiver_mail>
 Subject: SMTP e-mail test
 
 This is a test e-mail to see whether python can send emails.
