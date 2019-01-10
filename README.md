@@ -1,2 +1,2 @@
 # Python - Sending mails
-Sending mails
+Sending mails scripts
