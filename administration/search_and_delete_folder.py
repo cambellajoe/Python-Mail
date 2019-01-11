@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 10 12:53:32 2019
 
-@author: JKMUTUA
+@author: cambellajoe
 
 This script allows a user to find a folder by providing root directory and folder name
 Then it deletes all the occurences of the folder with its contents
